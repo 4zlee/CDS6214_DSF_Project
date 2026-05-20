@@ -1,3 +1,3 @@
 # CDS6214_DSF_Project
 <h1>WELCOME!!<h1>
-<img width="725" height="483" alt="18f83b358a0abf6e1a44f01a543ce426 jpg" src="https://github.com/user-attachments/assets/70b53401-9969-499f-a746-05f75cbc2330" />
+<img width="736" height="736" alt="e34f2023fd3892a397cff8634c306ac0 jpg" src="https://github.com/user-attachments/assets/5d5efa9d-7cee-4603-b2bc-c033ac81d380" />
